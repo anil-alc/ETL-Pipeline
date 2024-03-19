@@ -1,0 +1,1 @@
+- An ETL Pipeline developed to transfer data collected from Excel files to both Microsoft SQL Server and SQLite using Python. It utilized libraries like Pandas and SQLAlchemy for data manipulation and database connections, automating data management processes and enabling transitions between different database platforms.
